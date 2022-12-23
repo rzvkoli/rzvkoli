@@ -8,7 +8,7 @@
 - **CSS**
 - **React Materialize**
 - **React Icons**
-- **Ract Loadable**
+- **React Loadable**
 
 ### [Live Demo](https://rzvkoli.netlify.app/)
 
