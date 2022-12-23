@@ -1,6 +1,6 @@
 # rzvkoli
 
-**This project is currently only visible on mobile**
+**This project is currently only visible on mobile** .
 
 ## Technologies
 
@@ -13,8 +13,6 @@
 ### [Live Demo](https://rzvkoli.netlify.app/)
 
 ## Preview
-### Desktop Mode
-
 ### Mobile Mode
 
 ---
