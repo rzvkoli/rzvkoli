@@ -1,4 +1,4 @@
-# rzvkoli - Profile Card
+# rzvkoli
 
 ## Technologies
 
