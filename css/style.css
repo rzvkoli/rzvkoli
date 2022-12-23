@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'Urbanist';
+    src: 
+    url('../font/Urbanist-Medium.ttf') format('ttf'),
+    url('../font/Urbanist-Medium.woff') format('woff');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Urbanist';
+    src: 
+    url('../font/Urbanist-ExtraBold.ttf') format('ttf'),
+    url('../font/Urbanist-ExtraBold.woff') format('woff');
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: 'Urbanist';
+    src: 
+    url('../font/Urbanist-Black.ttf') format('ttf'),
+    url('../font/Urbanist-Black.woff') format('woff');
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: 'Gill Sans';
+    src: 
+    url('../font/GILLSANS.ttf') format('ttf'),
+    url('../font/GILLSANS.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Material Icons';
+    src:
+    url('../icon/2fcrYFNaTjcS6g4U3t-Y5ZjZjT5FdEJ140U2DJYC3mY.ttf') format('ttf'),
+    url('../icon/2fcrYFNaTjcS6g4U3t-Y5ZjZjT5FdEJ140U2DJYC3mY.woff') format('woff'),
+    url('../icon/2fcrYFNaTjcS6g4U3t-Y5ZjZjT5FdEJ140U2DJYC3mY.woff2') format('woff2');
+  }
