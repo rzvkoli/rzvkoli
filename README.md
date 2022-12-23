@@ -1,6 +1,7 @@
 # rzvkoli
 
 **This project is currently only visible on mobile** .
+**THIS PROJECT IS CURRENTLY ONLY VISIBLE ON MOBILE** .
 
 ## Technologies
 
