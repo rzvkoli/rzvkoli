@@ -1,11 +1,11 @@
-# rzvkoli
+# rzvkoli - Profile Card
 
 ## Technologies
 
 - **React**
 - **CSS**
 - **React Materialize**
-- **React Icons*
+- **React Icons**
 - **Ract Loadable**
 
 ### [Live Demo]()
