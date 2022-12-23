@@ -22,6 +22,6 @@
   </tr>
 </table>
 
-![00](https://user-images.githubusercontent.com/100797809/209311928-d8cbd231-4f4a-4893-a458-dc28247b93b3.jpg)|![00](https://user-images.githubusercontent.com/100797809/209311928-d8cbd231-4f4a-4893-a458-dc28247b93b3.jpg)
+![00](https://user-images.githubusercontent.com/100797809/209311928-d8cbd231-4f4a-4893-a458-dc28247b93b3.jpg) :---: ![00](https://user-images.githubusercontent.com/100797809/209311928-d8cbd231-4f4a-4893-a458-dc28247b93b3.jpg)
 
 ---
