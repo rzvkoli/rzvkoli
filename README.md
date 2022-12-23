@@ -1,5 +1,7 @@
 # rzvkoli
 
+**This project is currently only visible on mobile**
+
 ## Technologies
 
 - **React**
