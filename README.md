@@ -10,10 +10,10 @@
 - **React Icons**
 - **React Loadable**
 
-### [Live Demo](https://rzvkoli.netlify.app/)
+## [Live Demo](https://rzvkoli.netlify.app/)
 
 ## Preview
-### Mobile Mode
+## Mobile Mode
 
 <table>
   <tr>
